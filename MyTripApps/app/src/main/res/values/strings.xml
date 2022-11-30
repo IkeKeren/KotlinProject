@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTripApps</string>
+    <string name="trip_name">Nama Tempat</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="user_name">Hi, I\'m Salehah Wijayanti</string>
+    <string name="user_email">Please contact me : salehahwijayanti@gmail.com</string>
+</resources>
